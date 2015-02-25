@@ -1,7 +1,6 @@
 __author__ = 'paulhart'
 from selenium import webdriver
 from config import RECOMMENDED_URL, BALANCE_URL
-import ipdb
 
 
 class RipRoar():
