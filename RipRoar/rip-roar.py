@@ -3,6 +3,9 @@ from selenium import webdriver
 from config import RECOMMENDED_URL, BALANCE_URL
 
 
+
+
+
 class RipRoar():
 
     def __init__(self):
